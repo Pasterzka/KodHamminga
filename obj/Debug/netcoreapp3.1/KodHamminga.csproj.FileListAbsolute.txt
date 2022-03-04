@@ -1,0 +1,14 @@
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\bin\Debug\netcoreapp3.1\KodHamminga.exe
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\bin\Debug\netcoreapp3.1\KodHamminga.deps.json
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\bin\Debug\netcoreapp3.1\KodHamminga.runtimeconfig.json
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\bin\Debug\netcoreapp3.1\KodHamminga.runtimeconfig.dev.json
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\bin\Debug\netcoreapp3.1\KodHamminga.dll
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\bin\Debug\netcoreapp3.1\KodHamminga.pdb
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\obj\Debug\netcoreapp3.1\KodHamminga.csproj.AssemblyReference.cache
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\obj\Debug\netcoreapp3.1\KodHamminga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\obj\Debug\netcoreapp3.1\KodHamminga.AssemblyInfoInputs.cache
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\obj\Debug\netcoreapp3.1\KodHamminga.AssemblyInfo.cs
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\obj\Debug\netcoreapp3.1\KodHamminga.csproj.CoreCompileInputs.cache
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\obj\Debug\netcoreapp3.1\KodHamminga.dll
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\obj\Debug\netcoreapp3.1\KodHamminga.pdb
+C:\Users\Jakub Pastuszka\source\repos\KodHamminga\obj\Debug\netcoreapp3.1\KodHamminga.genruntimeconfig.cache
